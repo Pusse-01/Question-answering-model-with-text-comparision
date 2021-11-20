@@ -1,0 +1,2 @@
+# Question-answering-model-with-text-comparision
+This project is done as a client request. I have done the machine learning part of the project of Detecting Parkinson's Disease for Children. When the user inputs the text and related questions, then the model preidcts the answers for the questions from the text and compare them with the chld's answer. If those answers which has been predicted by the model and the answer given by the child are similar, then the model detects the child is safe.
